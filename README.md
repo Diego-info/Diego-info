@@ -6,7 +6,7 @@
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-info&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-info&layout=compact)
+[comment]: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-info&layout=compact)
 
 
 ### Tecnologias em aprendizado 🖥️
