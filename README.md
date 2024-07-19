@@ -16,3 +16,6 @@
 <img aling="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img aling="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
+
+
+[![Obrigado !]](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGF0ampremo5d2ZnN2ptNGs0N3EwaGJ4c2UxODR1aGk0MWp4eGozZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/200.webp)
